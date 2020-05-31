@@ -1,4 +1,3 @@
-# stunning-telegram
 This is a game I'm fiddling with in my spare time.
 I'm not really 100% sure what the final form will be
 I'm just gonna add features and improve it for now
