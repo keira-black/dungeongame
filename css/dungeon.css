@@ -1,0 +1,61 @@
+
+h1{
+text-align:center;
+}
+
+#aMazeTainer{
+display:inline-block;
+}
+
+#sidebar{
+	display: inline-block;
+}
+
+span{
+text-align:center;
+display:block;
+}
+
+div{
+text-align:center;
+}
+
+div .resultsDiv{
+border: 4px double black;
+}
+
+body{
+background-color: #333333;
+color:#FFECAA;
+}
+
+button{
+background-color:#333333;
+color:#FFECAA;
+width: 80%;
+}
+
+.infoBlob{
+	text-align: left;
+}
+
+.container{
+text-align:center;
+}
+
+.infotainer{
+	text-align: left;
+	overflow-y:hidden;
+	overflow-x: wrap; 
+	height:100px;
+	width: 960px;
+	scroll-behavior: smooth;
+	color: lime;
+	background-color: black;
+}
+.infoLine{
+	text-align: left;
+	padding: 0px;
+	padding-left: 12px;
+	margin: 0px;
+}
